@@ -1,0 +1,75 @@
+@import url('/fonts/nova-mono.css');
+
+@import url('/fonts/righteous.css');
+
+body {
+    margin: 0px;
+    background-color: #111;
+    color: #eee;
+}
+
+.masthead h1, .masthead p {
+    margin: 0px;
+}
+
+.masthead {
+    background-color: #222;
+    padding: 25px 0px;
+}
+
+.container {
+    max-width: 768px;
+    margin: 0 auto;
+    padding: 0px 20px;
+}
+
+.bodyrock img {
+    display: block;
+    margin: 0px auto;
+    max-width: 100%;
+}
+
+.bodyrock a, .footer a {
+    text-decoration: none;
+    color: #fe0000;
+}
+  
+  .bodyrock a:hover, .footer a:hover {
+    color: #990000;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Righteous;
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Nova Mono', monospace;
+}
+
+.columns .cell {
+    width: 25%;
+    float: left;
+    text-align: center;
+    font-family: 'Nova Mono', monospace;
+}
+  
+@media only screen and (max-width: 600px) {
+  
+    .columns .cell {
+      width: 100%;
+      float: initial;
+    }
+    
+}
+
+.co-box {
+    padding-bottom: 45px;
+}
+  
+.footer {
+    text-align: center;
+    font-family: 'Nova Mono', monospace;
+    background-color: #222;
+    padding: 25px 0px;
+}
