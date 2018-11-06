@@ -3,6 +3,7 @@
 Nerds, Programmer, hobbyist, and Hackers in Long Beach, CA
 
 This is our static html site. Hand crafted by [Arthur Reeder](https://n0pe.org).
+
 ---
 
 ## What is Hack Night?
