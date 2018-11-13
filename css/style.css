@@ -64,7 +64,11 @@ p {
 }
 
 .co-box {
-    padding-bottom: 45px;
+    padding-bottom: 192px;
+}
+
+.co-box a {
+    font-size: 128px;
 }
   
 .footer {
