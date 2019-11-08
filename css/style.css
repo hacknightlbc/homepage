@@ -102,6 +102,8 @@ p {
 
 .social img {
     padding: 15px;
+    max-width: 150px;
+    max-height:150px;
 }
   
 .social img:hover {
